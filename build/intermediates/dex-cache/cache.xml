@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhinav\.android\build-cache\6c176042729aea8231c66f17184e9d90f7612f2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="F:\Drive\Coding\Android\Optical Character Recognition\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\classes_5947ad2cc7d6f62dbf8fda25a0b7fbff44fa8c5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhinav\.android\build-cache\88bc98da8e792f0cc47123600c32d6002856d799\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="F:\Drive\Coding\Android\Optical Character Recognition\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\classes_d708cec3908d7cafd8bbcb9baf6a57f19862227a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhinav\.android\build-cache\e9c3feab4526d0aa8aa56ba2d78963289209fe3c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="F:\Drive\Coding\Android\Optical Character Recognition\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\classes_e0513ae03bccf5c46a8b3d1834dcc90d5a850e71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhinav\.android\build-cache\24cc9e181cfc57d878063a2bcff250b6679c4e10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="F:\Drive\Coding\Android\Optical Character Recognition\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\classes_5d168559e0864528637099ef71974cc2546680d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhinav\.android\build-cache\0a3e614de979beed14c0e2cdb5df1e83e71a085b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="F:\Drive\Coding\Android\Optical Character Recognition\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\pre-dexed\debug\classes_3c426c28708539b84f91279711d758408a60c96c.jar" />
+    </item>
+
+</items>
